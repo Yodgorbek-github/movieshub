@@ -1,0 +1,188 @@
+{
+        "movies": [
+          {
+            "name": "Inception",
+            "img": "https://avatars.mds.yandex.net/i?id=4b7698fe6a404bec8750a5b03ebf12056ab1f7a0-12919190-images-thumbs&n=13",
+            "year": "2010",
+            "type": "Movie",
+            "description": "Leonardo DiCaprio boshchiligida tushlar ichida sayohat qiluvchi g'ayrioddiy jamoa haqida ilmiy-fantastik film.",
+            "rating": 9.3
+          },
+          {
+            "name": "The Dark Knight",
+            "img": "https://avatars.mds.yandex.net/i?id=2a0000017a128a1df53022717226c52ce304-4937686-images-thumbs&n=13",
+            "year": "2008",
+            "type": "TV series",
+            "description": "Batman o'zining eng katta dushmani Joker bilan yuzlashadigan epik superqahramon filmi.",
+            "rating": 9.7
+          },
+          {
+            "name": "Interstellar",
+            "img": "https://avatars.mds.yandex.net/i?id=236e8ab5e987c550acb90dead696b8df6bda9d5b-4292030-images-thumbs&n=13",
+            "year": "2014",
+            "type": "Movie",
+            "description": "Kelajakda insoniyatning omon qolishi uchun kosmosga safar qilgan bir guruh astronavtlar haqidagi ilmiy-fantastik film.",
+            "rating": 9.1
+          },
+          {
+            "name": "Pulp Fiction",
+            "img": "https://avatars.mds.yandex.net/i?id=d0fa304220cc9f2ab39ccf343136b0fe587407e6-5859366-images-thumbs&n=13",
+            "year": "1994",
+            "type": "Movie",
+            "description": "Quentin Tarantino tomonidan yaratilgan gangsterlar, sevgi va jinoyat to‘qnashgan, murakkab hikoyalar ketma-ketligi.",
+            "rating": 8.9
+          },
+          {
+            "name": "The Matrix",
+            "img": "https://avatars.mds.yandex.net/i?id=9b488463efd8134184ec114a5112d50c0c76b562-5213158-images-thumbs&n=13",
+            "year": "1999",
+            "type": "Movie",
+            "description": "Texnologik distopiyada yashirin haqiqiy dunyoni kashf etgan Neo ismli yigit haqida fantastik film.",
+            "rating": 9.2
+          },
+          {
+            "name": "Fight Club",
+            "img": "https://avatars.mds.yandex.net/i?id=378a2b0df09487dc877674df459386e03dd6e27d-3740767-images-thumbs&n=13",
+            "year": "1999",
+            "type": "Movie",
+            "description": "Anonim kurash klubi tashkil etuvchi ikki erkakning hayoti va ichki to‘qnashuvlari haqida psixologik drama.",
+            "rating": 8.8
+          },
+          {
+            "name": "The Shawshank Redemption",
+            "img": "https://avatars.mds.yandex.net/i?id=adac1cf14a7971fb11362e90b486efdfe646ec764ffb5891-12646988-images-thumbs&n=13",
+            "year": "1994",
+            "type": "TV series",
+            "description": "Nohaq ayblanib qamoqqa tushgan Andy Dufresne ismli odamning ozodlikka bo'lgan kurashi.",
+            "rating": 9.6
+          },
+          {
+            "name": "Forrest Gump",
+            "img": "https://avatars.mds.yandex.net/i?id=6b421713ff8fe6d038759b86ea195dbc9bf7f59a-4077629-images-thumbs&n=13",
+            "year": "1994",
+            "type": "Movie",
+            "description": "Aqli zaif bo'lishiga qaramay hayotdagi ko'plab yutuqlarga erishgan Forrest ismli odamning hayot hikoyasi.",
+            "rating": 9.4
+          },
+          {
+            "name": "The Godfather",
+            "img": "https://avatars.mds.yandex.net/i?id=bc057e4b2f48490dbaf06d030bd8290ec2ab688c-6348765-images-thumbs&n=13",
+            "year": "1972",
+            "type": "Movie",
+            "description": "Mafiya oilasi ichida hokimiyat uchun kurash va oilaviy rishtalar haqidagi epik drama.",
+            "rating": 9.8
+          },
+          {
+            "name": "Avatar",
+            "img": "https://avatars.mds.yandex.net/i?id=b1ea6291cda785bd9f925f1e5aa8192d257c63da-10108411-images-thumbs&n=13",
+            "year": "2009",
+            "type": "TV series",
+            "description": "James Cameron tomonidan suratga olingan ilmiy-fantastik film. Bu filmda insonlar boshqa sayyorada yashashni boshlaydilar.",
+            "rating": 8.7
+          },
+          {
+            "name": "Gladiator",
+            "img": "https://avatars.mds.yandex.net/i?id=84eb4458b4940141434159e1db43324fd457558a-4517378-images-thumbs&n=13",
+            "year": "2000",
+            "type": "Movie",
+            "description": "Maksimus ismli jangchining Rim imperiyasi bilan to'qnashuvlari haqida epik drama.",
+            "rating": 9.0
+          },
+          {
+            "name": "Titanic",
+            "img": "https://avatars.mds.yandex.net/i?id=3c00ccb80ebb535d17a9859daa32fc38c59bb22d-9067611-images-thumbs&n=13",
+            "year": "1997",
+            "type": "Movie",
+            "description": "Titanik kemasi halokati va ikki yosh sevgilining fojiali hikoyasi.",
+            "rating": 9.3
+          },
+          {
+            "name": "The Social Network",
+            "img": "https://avatars.mds.yandex.net/i?id=86de2a5dd507b596ef1bf286e0315439b5e1dcb39315fa00-5246403-images-thumbs&n=13",
+            "year": "2010",
+            "type": "Movie",
+            "description": "Facebook ijtimoiy tarmog'ining yaratilishi va uning asoschilarining hikoyasi.",
+            "rating": 8.6
+          },
+          {
+            "name": "Joker",
+            "img": "https://avatars.mds.yandex.net/i?id=1053d0490088c57741b021acf4d2d9718f0b1839-5886789-images-thumbs&n=13",
+            "year": "2019",
+            "type": "TV series",
+            "description": "Jokerning shaxsiy hayoti va ruhiy tushkunligi haqida film.",
+            "rating": 8.9
+          },
+          {
+            "name": "The Irishman",
+            "img": "https://avatars.mds.yandex.net/i?id=9e4b758570f64252df6d98487c78ffc115be6a7fe23e6890-5875773-images-thumbs&n=13",
+            "year": "2019",
+            "type": "Movie",
+            "description": "Frank Sheeran ismli mafiyachi qotilning hayoti va jinoyat dunyosidagi ishi haqida hikoya.",
+            "rating": 8.4
+          },
+          {
+            "name": "Django Unchained",
+            "img": "https://avatars.mds.yandex.net/i?id=539ed13891d4ad680394ec1277a0367068f2fb1a-9227998-images-thumbs&n=13",
+            "year": "2012",
+            "type": "Movie",
+            "description": "O'z ozodligini qidirmoqda bo'lgan qul va uning sayohati haqida film.",
+            "rating": 8.9
+          },
+          {
+            "name": "Mad Max: Fury Road",
+            "img": "https://avatars.mds.yandex.net/i?id=55a38dd57d14bad8c70ec42a17c7fcd016103aeb-8340358-images-thumbs&n=13",
+            "year": "2015",
+            "type": "Movie",
+            "description": "Post-apokaliptik dunyoda tirik qolish uchun kurashayotgan bir guruh insonlar haqida ilmiy",
+            "rating": 8.1
+        }
+        ],
+    "buttons": [
+      {
+        "name":"Action & Adventure"
+      },
+      {
+        "name":"Animation"
+      },
+      {
+        "name":"Comedy"
+      },
+      {
+        "name":"Documantary"
+      },
+      {
+        "name":"Drama"
+      },
+      {
+        "name":"Family"
+      },
+      {
+        "name":"Kids"
+      },
+      {
+        "name":"Mestery"
+      },
+      {
+        "name":"News"
+      },
+      {
+        "name":"Reality"
+      },
+      {
+        "name":"Sci-Fi & Fantasy"
+      },
+      {
+        "name":"Soap"
+      },
+      {
+        "name":"Talk"
+      },
+      {
+        "name":"War & Politics"
+      },
+      {
+        "name":"Western"
+      }      
+    ]
+  }
+  
